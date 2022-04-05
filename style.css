@@ -1,0 +1,274 @@
+*{
+    margin: 0;
+   padding: 0;
+
+}body{
+    margin: 0%;
+}
+h1{
+    margin: 0;
+}
+.navbar{
+    height: 13vh;
+    display: flex;
+    justify-content: space-evenly;
+    
+    
+    
+}.first{
+    display: flex;
+    justify-content: center;
+
+}
+.header{
+    
+    width: 155vh;
+    max-width: 100%;
+    
+   
+
+
+}
+.img{
+    width: 150vh;
+    height: 80vh;
+    max-width: 100%;
+    min-height:50vh ;
+    border-radius: 5rem;
+    
+    
+}
+header{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+ 
+    
+
+
+}.main{
+    display: flex;
+    justify-content: center;
+}
+.image{
+    display: flex;
+    border-radius: 10px;
+    position: relative;
+    align-items: center;
+    background-image: url(https://joinclubsoda.com/wp-content/uploads/2020/12/Welcome-to-Club-Soda-drink-mindfully-and-live-well.jpg);
+    width: 150vh;
+    height: 60vh;
+    max-width: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    flex-direction: column;
+    justify-content:end ;
+    
+    
+
+}.h1{
+    display: flex;
+    justify-content: center;
+    bottom: 0;
+    margin: 0 !important;
+    width: 55%;
+    height: 20%;
+    background-color: white;
+  
+
+}.para{
+    display: flex;
+    font-size: 19px;
+    font-family: 'Merriweather', serif;
+    color: #756F84;
+    line-height: 1.2em;
+    font-weight: 150;
+    justify-content: center;
+    /* height: 150px; */
+    width: 165vh;
+    max-width: 100%;
+    background-color: white;
+    
+    
+   
+    
+    
+}.button{
+
+    justify-items: flex-start;
+    width: 350px;
+    height: 50px;
+    background-color: #e30a5e;
+    color: white;
+    border-radius: 5px;
+    border: 0;
+    align-items: center;
+    justify-content: space-around;
+
+    
+
+    
+    
+}.button:hover{
+    background-color: #3c0118;
+}
+ .second-para{
+    display: flex;
+    font-size: 19.5px;
+    font-family: 'Merriweather', serif;
+    color: #756F84;
+    line-height: 1.2em;
+    font-weight: 150;
+    justify-content: center;
+    
+    width: 165vh;
+    max-width: 100%;
+    
+    background-color:white;
+
+    
+ }.images{
+    border: none;
+    padding: 0;
+    margin: 0;
+    
+    width: 400px;
+    max-width: 100%;
+    height: 315px;
+    justify-content: space-evenly;
+ 
+ }.parag{
+    font-family: 'Merriweather', serif;
+    font-size: 17px;
+    color: #756F84;
+    line-height: 1.8em;
+    font-weight: 100;
+
+ }.block1{
+     display: flex;
+    padding-top: 4%;
+    padding-left: 6%;
+    
+     width: 200vh;
+     max-width: 100%;
+     
+
+ }.Inspiration{
+     width: 800vh;
+     max-width: 100%;
+ }
+ .h2{
+    font-size: 30px;
+    font-weight: bolder;
+    line-height: 1.3em;
+    margin: 0.8em 0 0.8em 0em;
+    font-family: 'Archivo', sans-serif;
+    color: #222;
+    letter-spacing: .5px;
+    word-spacing: .2px;
+    
+    
+ }
+ .para1{
+    justify-items: flex-start;
+    width: 210px;
+   
+    align-items: center;
+    justify-content: space-around;
+    margin: 0.8em 0 0.8em 5em;}
+
+
+    .card{
+        
+    display:flex;
+    justify-content: left;}
+
+   
+    
+
+    
+
+
+    
+     
+    
+   
+   
+ .para2{
+    display: flex;
+    justify-content: center;
+
+ }.para3{
+    display: flex;
+    justify-content: center;
+
+ }
+ .button1{
+    justify-items: flex-start;
+    width: 150px;
+    height: 50px;
+    background-color: #e30a5e;
+    color: white;
+    border-radius: 5px;
+    border: 0;
+    align-items: center;
+    justify-content: space-around;
+    margin: 0.8em 0 0.8em 0em;
+
+ }.button1:hover{
+    background-color: #3c0118;
+}.card{
+    display: flex;
+    justify-content: left;
+    
+    
+}.h3{
+    font-family: 'Archivo', sans-serif;
+    font-weight: bold;
+    font-size:x-large;
+    display: block;
+    font-weight: bold;
+    display: block;
+    padding: 20px;
+    text-decoration: none;
+    border: 0;
+    color: #e30a5e;
+
+}.block2{
+    width: 800vh;
+     max-width: 100%;
+    background-color: aqua;
+    height: 400px;
+}.footer{
+    font-family: 'Merriweather', serif;
+    font-size: 17px;
+    line-height: 1.8em;
+    margin-top: 3em;
+    
+}.footer{
+    background-color: #465f63;
+    color: white;
+}.icons{
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+    
+
